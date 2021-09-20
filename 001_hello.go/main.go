@@ -9,3 +9,4 @@ func main(){
     fmt.Println(text1, text2)
 }
 //com
+//com2
